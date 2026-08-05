@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/Black%20Minimalist%20Linkedin%20Banner.png" alt="Sudipta Naiya Banner" width="100%">
+</p>
+
+<br>
 <h1 align="center">Hi 👋, I'm Sudipta Naiya</h1>
 
 <p align="center">
