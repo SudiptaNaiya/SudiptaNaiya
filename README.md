@@ -117,5 +117,5 @@ Welcome to my GitHub Profile 🚀
     src="./assets/contribution-game.svg"
     width="100%"
     alt="SudiptaNaiya Contribution Quest"
-  >
+  />
 </p>
