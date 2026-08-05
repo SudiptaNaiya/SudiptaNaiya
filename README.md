@@ -84,4 +84,28 @@ Welcome to my GitHub Profile 🚀
     width="95%"
   />
 </p>
-<!-- ======================================================== -->
+<table border="0">
+<tr>
+
+<td valign="top" width="65%">
+
+<h3>✨ Things I Enjoy</h3>
+
+<p>🎮 Gaming is my favorite way to escape from debugging for a while.</p>
+
+<p>🎧 Music is basically part of my development environment.</p>
+
+<p>🧠 I enjoy random questions that turn into hours of exploring and learning.</p>
+
+<p>💡 I like taking things apart, understanding how they work, and occasionally making them better.</p>
+
+</td>
+
+<td valign="middle" width="35%" align="center">
+
+<img src="./assets/about3.gif" width="280" alt="Beyond Code">
+
+</td>
+
+</tr>
+</table>
