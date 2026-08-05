@@ -79,10 +79,10 @@ Welcome to my GitHub Profile 🚀
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SudiptaNaiya&bg_color=0D1117&color=FFFFFF&line=FF4F8B&point=58A6FF&area_color=FF4F8B&area=true&hide_border=true&radius=10&custom_title=SudiptaNaiya's%20Contribution%20Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SudiptaNaiya&theme=github-dark&hide_border=true&area=true"
     alt="SudiptaNaiya Contribution Graph"
     width="95%"
-  />
+/>
 </p>
 <table border="0">
 <tr>
@@ -110,13 +110,4 @@ Welcome to my GitHub Profile 🚀
 </tr>
 </table>
 
-<h2 align="center">🎮 Contribution Quest</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/SudiptaNaiya/SudiptaNaiya/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="SudiptaNaiya Contribution Snake"
-  />
-</p>
 
