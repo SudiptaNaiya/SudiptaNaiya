@@ -15,7 +15,7 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="./assets/about1.gif" width="300" alt="About Me">
+<img src="./assets/about2.gif" width="300" alt="About Me">
 
 </td>
 
@@ -45,11 +45,44 @@ Welcome to my GitHub Profile 🚀
 
 ---
 
-## 🛠 Skills
+<h2 align="center">🛠️ Tools & Technologies</h2>
 
-- Python
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,java,c,cpp,python,github,ts,mysql"
+    alt="Tools and Technologies"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+with+Code+%F0%9F%92%BB;Learning+%26+Experimenting+%F0%9F%9A%80;Turning+Ideas+into+Projects+%E2%9C%A8" alt="Typing Animation">
+</p>
+
+<!-- ================= DEVELOPMENT JOURNEY ================= -->
+
+<h2 align="center">💻 Development Journey</h2>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=SudiptaNaiya&theme=radical&hide_border=true&border_radius=10&card_width=700&background=0D1117&ring=FF4F8B&fire=FF4F8B&currStreakLabel=58A6FF&sideLabels=FF4F8B&dates=FFFFFF"
+    alt="SudiptaNaiya GitHub Streak"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SudiptaNaiya&bg_color=0D1117&color=FFFFFF&line=FF4F8B&point=58A6FF&area_color=FF4F8B&area=true&hide_border=true&radius=10&custom_title=SudiptaNaiya's%20Contribution%20Graph"
+    alt="SudiptaNaiya Contribution Graph"
+    width="95%"
+  />
+</p>
+
+<br>
+
+<!-- ======================================================== -->
