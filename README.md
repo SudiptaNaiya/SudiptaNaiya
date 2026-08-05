@@ -114,8 +114,9 @@ Welcome to my GitHub Profile 🚀
 
 <p align="center">
   <img
-    src="./assets/contribution-game.svg"
+    src="https://raw.githubusercontent.com/SudiptaNaiya/SudiptaNaiya/output/github-contribution-grid-snake.svg"
     width="100%"
-    alt="SudiptaNaiya Contribution Quest"
+    alt="SudiptaNaiya Contribution Snake"
   />
 </p>
+
