@@ -15,7 +15,7 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="./assets/about1.png" width="250" alt="About Me">
+<img src="./assets/about1.gif" width="300" alt="About Me">
 
 </td>
 
