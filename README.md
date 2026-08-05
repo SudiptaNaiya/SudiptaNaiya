@@ -45,17 +45,6 @@ Welcome to my GitHub Profile 🚀
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 BCA Student
-- 🤖 Learning Artificial Intelligence
-- 💻 Python Developer
-- 🌐 Web Developer
-- 🚀 Building Real-World Projects
-- 📍 India
-
----
-
 ## 🛠 Skills
 
 - Python
