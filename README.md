@@ -103,7 +103,7 @@ Welcome to my GitHub Profile 🚀
 
 <td valign="middle" width="35%" align="center">
 
-<img src="./assets/about3.gif" width="280" alt="Beyond Code">
+<img src="./assets/about3.gif" width="300" alt="Beyond Code">
 
 </td>
 
