@@ -67,10 +67,12 @@ Welcome to my GitHub Profile 🚀
 <br>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SudiptaNaiya&theme=radical&hide_border=true&border_radius=10&card_width=700&background=0D1117&ring=FF4F8B&fire=FF4F8B&currStreakLabel=58A6FF&sideLabels=FF4F8B&dates=FFFFFF"
-    alt="SudiptaNaiya GitHub Streak"
-  />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=SudiptaNaiya&theme=github-dark-blue&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 <br>
@@ -82,7 +84,4 @@ Welcome to my GitHub Profile 🚀
     width="95%"
   />
 </p>
-
-<br>
-
 <!-- ======================================================== -->
